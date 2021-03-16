@@ -1,5 +1,6 @@
 # envstruct
 ![badge](https://github.com/yihau/envstruct/actions/workflows/go.yml/badge.svg?branch=main)
+[![Go Report Card](https://goreportcard.com/badge/github.com/yihau/envstruct)](https://goreportcard.com/report/github.com/yihau/envstruct)
 
 a simple way to get your environment variable.
 
